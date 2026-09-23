@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Ukraine</h3>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://www.linkedin.com/company/strikerz-inc/posts/">Strikerz.inc</a></li>
+  <li>🔭 I’m currently working on <a href="https://www.linkedin.com/company/globallogic/posts/">GlobalLogic</a></li>
   <li>📫 How to reach me: <strong>korolenkowork@gmail.com</strong></li>
 </ul>
 
